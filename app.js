@@ -1,10 +1,3 @@
-// let titulo = document.querySelector('h1');
-// titulo.innerHTML = 'Jogo do número secreto';
-
-// let paragrafo = document.querySelector('p');
-// paragrafo.innerHTML = 'Escolha um numero entre 1 e 10';
-
-//---
     let listaDeNumerosSorteados = [];
     let numeroLimite = 10;
     let numeroSecreto = gerarNumeroAleatorio();
@@ -72,7 +65,7 @@
                     chute.value = '';
                 }
            
-// -----
+// ----- alguns códigos de desafios
 // let titulo = document.querySelector('h1');
 // titulo.innerHTML = 'Hora do desafio';
 
@@ -85,7 +78,13 @@
 // let putCidade = prompt('Digita um nome de uma cidade: ')
 // alert(`Estive em ${putCidade} e lembrei de você`);
 
+// let titulo = document.querySelector('h1');
+// titulo.innerHTML = 'Jogo do número secreto';
 
+// let paragrafo = document.querySelector('p');
+// paragrafo.innerHTML = 'Escolha um numero entre 1 e 10';
+
+//---
 
 
     // function exibirNaTela(n1) {
